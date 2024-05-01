@@ -1,1 +1,1 @@
-# SCARAV3_G4_VelocityCalculator
+# Robotics2_JacobianMatrix_Group4_SCARAV3_2024
