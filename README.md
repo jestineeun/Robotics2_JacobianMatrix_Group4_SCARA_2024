@@ -1,1 +1,1 @@
-# Robotics2_JacobianMatrix_Group4_SCARAV3_2024
+# Robotics2_JacobianMatrix_Group4_SCARA_2024
