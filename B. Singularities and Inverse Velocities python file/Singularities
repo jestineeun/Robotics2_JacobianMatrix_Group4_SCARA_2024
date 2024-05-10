@@ -1,1 +1,6 @@
+import numpy as np
+import synpy as sp
 
+## Singularity
+D_J = np.linalg.det(JM1)
+print("D_J =", D_)
